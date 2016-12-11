@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/background_porfolio_blurred.png) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -176,11 +176,16 @@ a:after {
 #headerwrap h1 {
 	font-size: 80px;
 	color: white;
+	position: absolute;
+	margin-top: 50px;
+
 }
 
 #headerwrap h3 {
 	font-size: 20px;
 	color: white;
+	position: absolute;
+	margin-left: 5px;
 }
 
 /* Intnro Wrap */
